@@ -20,9 +20,9 @@ Contribute to open-source projects
 Build a strong portfolio showcasing my skills and creativity
 Contact
 
-Email: Terran.Stone@maine.edu
+
 GitHub: https://github.com/altinn (ts-at4dm)
-Let's Connect!
+
 
 I'm always eager to learn and collaborate with like-minded individuals. Feel free to reach out to me for any questions, project discussions, or just to chat about technology.
 

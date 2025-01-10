@@ -7,7 +7,7 @@ I am currently pursuing a Bachelor of Science in Computer Information Systems wi
 ![](https://komarev.com/ghpvc/?username=ts-at4dm&color=00FFFF&style=plastic)
 
 
-![](https://custom-icon-badges.demolab.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&logoColor=white)
+![](https://custom-icon-badges.demolab.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&logoColor=00FF00&style=plastic)
 
 ### Programming Languages and Tech I’m Studying or Proficient In
 

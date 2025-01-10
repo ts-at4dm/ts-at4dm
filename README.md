@@ -17,9 +17,9 @@ I'm pursuing a Bachelor of Science in Computer Information Systems with a specia
 
 <br>
 
-<div>
+<div align="center">
   
-<a href="> <h2>Programming Languages and Tech I’m Studying or Proficient In </h2>
+<a href=""> <h2>Programming Languages and Tech I’m Studying or Proficient In </h2>
 
 </div>
 <div align="center">

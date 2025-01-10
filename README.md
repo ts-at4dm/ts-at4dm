@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2> "The best revenge is massive success.” – Frank Sinatra </h2>
+<h1> "The best revenge is massive success.” – Frank Sinatra </h1>
 
 </div>
 

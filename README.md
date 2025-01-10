@@ -8,8 +8,7 @@ I'm pursuing a Bachelor of Science in Computer Information Systems with a specia
 <div align="center">
 
   <a href="">![](https://komarev.com/ghpvc/?username=ts-at4dm&color=00FFFF&style=plastic) </a>
-  <a href="">[![Contact Me!](https://img.shields.io/badge/Contact_Me!-green?style=plastic&logoColor=FFFFFF&color=00ff44)](mailto:terran.stone@maine.edu)
-</a>
+  <a href="">![Contact Me!](https://img.shields.io/badge/Contact_Me!-green?style=plastic&logoColor=FFFFFF&color=00ff44)](mailto:terran.stone@maine.edu)</a>
   <a href="">![](https://custom-icon-badges.demolab.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&logoColor=00FF00&style=plastic)</a>
 
 </div>

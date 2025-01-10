@@ -7,4 +7,4 @@ Currently studying for a Bachelors of Science in Computer Information Systems wi
 
 ### Programming Languages and Tech I’m Studying or Proficient In
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,go,cs,js,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,go,cs,js,linux,mysql)](https://skillicons.dev)

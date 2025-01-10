@@ -1,1 +1,1 @@
-####### "The best revenge is massive success.” – Frank Sinatra
+## "The best revenge is massive success.” – Frank Sinatra

@@ -7,9 +7,6 @@ I'm pursuing a Bachelor of Science in Computer Information Systems with a specia
 
 <p align="right">
   <!-- ![](https://komarev.com/ghpvc/?username=ts-at4dm&color=00FFFF&style=plastic) [![Email Badge](https://img.shields.io/badge/Contact_Me!-green?style=plastic&logoColor=FFFFFF&color=00ff44)](mailto:terran.stone@maine.edu) ![](https://custom-icon-badges.demolab.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&logoColor=00FF00&style=plastic)>
-</p>
-  
-<p align="left">
   
 </p>
 

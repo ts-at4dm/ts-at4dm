@@ -33,8 +33,9 @@ I'm pursuing a Bachelor of Science Degree in Computer Information Systems with a
 
 <div align="center">
 
-  "The best revenge is massive success!" 
-   Frank Sinatra
+  <p>"The best revenge is massive success!"</p> 
+  
+  <p>Frank Sinatra</p>
 
 </div> 
 

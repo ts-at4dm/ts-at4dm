@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1> 
-  Hey There, <h2> I'm Terran!</h2>  
+  Hey There, I'm Terran!  
 </h1>
 
 

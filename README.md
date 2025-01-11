@@ -7,6 +7,7 @@
 <br>
 
 ## About me:
+<br>
 I'm pursuing a Bachelor of Science Degree in Computer Information Systems with a specialization in Software Engineering. :computer: In addition, I am actively working towards earning CompTIA Certifications. As an avid tech enthusiast, I have a deep passion for building and implementing computer systems, along with an obsession for software development. I am excited about the future and the opportunities it holds! 
 
 <br>

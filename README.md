@@ -1,6 +1,7 @@
 <div align="center">
 
-<h1> "The best revenge is massive success.” – Frank Sinatra </h1>
+<h1> Hey There! </h1>
+<h2> I'm Terran</h2>
 
 </div>
 <br>

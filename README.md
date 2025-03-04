@@ -23,7 +23,7 @@ I'm pursuing a Bachelor of Science Degree in Computer Information Systems with a
 
 <div align="center">
   
-<a href=""> [![My Skills](https://skillicons.dev/icons?i=html,css,py,flask,go,cs,cpp,js,react,mysql,vscode,neovim,linux,ubuntu,windows,apple,bootstrap,discord&perline=8)](https://skillicons.dev) </a>
+<a href=""> [![My Skills](https://skillicons.dev/icons?i=html,css,py,flask,go,cs,cpp,mysql,vscode,neovim,linux,ubuntu,windows,apple,bootstrap,discord&perline=8)](https://skillicons.dev) </a>
 
 </div>
   

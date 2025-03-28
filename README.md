@@ -29,8 +29,8 @@ I'm pursuing a Bachelor of Science Degree in Computer Information Systems with a
   
 <br>
 
-<div style="display: flex; justify-content: center; gap: 50px;">
-  <div style="text-align: left;">
+<div style="display: flex; justify-content: space-between; align-items: start; gap: 50px;">
+  <div style="flex: 1; min-width: 250px;">
     <h3>Work Interests</h3>
     <ul>
       <li>Databases</li>
@@ -40,7 +40,7 @@ I'm pursuing a Bachelor of Science Degree in Computer Information Systems with a
     </ul>
     <p>I love getting things to talk to each other.</p>
   </div>
-  <div style="text-align: left;">
+  <div style="flex: 1; min-width: 250px;">
     <h3>Personal Interests</h3>
     <ul>
       <li>Computers & Tech</li>
@@ -53,6 +53,7 @@ I'm pursuing a Bachelor of Science Degree in Computer Information Systems with a
     </ul>
   </div>
 </div>
+
 
 <div align="center">
 

@@ -30,26 +30,16 @@ I'm pursuing a Bachelor of Science Degree in Computer Information Systems with a
 <br>
 <br>
 
-<table>
-  <tr>
-    <td>
-
-      ### List 1
-      - Item 1
-      - Item 2
-      - Item 3
-
-    </td>
-    <td>
-
-      ### List 2
-      - Item A
-      - Item B
-      - Item C
-
-    </td>
-  </tr>
-</table>
+<div style="text-align: left;">
+    <h3>Work Interests</h3>
+    <ul>
+      <li>Databases</li>
+      <li>API's</li>
+      <li>Networks & protocols</li>
+      <li>System Integration</li>
+    </ul>
+    <p>I love getting things to talk to each other.</p>
+  </div>
 
 <br>
 <br>

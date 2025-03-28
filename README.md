@@ -27,7 +27,7 @@ I'm pursuing a Bachelor of Science Degree in Computer Information Systems with a
 
 </div>
   
-_
+__
 
 <div style="text-align: left;">
     <h3>Work Interests</h3>
@@ -40,7 +40,7 @@ _
     <p>I love getting things to talk to each other.</p>
   </div>
 
-_
+__
 
 <div align="center">
 

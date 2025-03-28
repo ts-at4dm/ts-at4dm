@@ -27,7 +27,39 @@ I'm pursuing a Bachelor of Science Degree in Computer Information Systems with a
 
 </div>
   
-<br>
+<br
+
+<div align="center">
+  <div align="left">
+  <h3>Work Interests</h3>
+  <p>
+    I like Full-Stack work but really enjoy:
+    
+    -Databases
+    -API's 
+    -Networks & protocols 
+    -System Integration
+
+    I love getting things to talk to eachother. 
+    
+  </p>
+  </div>
+  <div align="right">
+    <h3>Personal Interets</h3>
+    <p>
+      I enjoy a wide variety of things
+
+      -Computers & Tech
+      -Programming
+      -Gaming
+      -Camping
+      -Four Wheeling/Snowmobiling
+      -Fishing
+      -Hunting
+      
+    </p>
+  </div>
+</div>
 
 <div align="center">
 

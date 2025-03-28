@@ -27,8 +27,7 @@ I'm pursuing a Bachelor of Science Degree in Computer Information Systems with a
 
 </div>
   
-<br>
-<br>
+---
 
 <div style="text-align: left;">
     <h3>Work Interests</h3>
@@ -41,8 +40,7 @@ I'm pursuing a Bachelor of Science Degree in Computer Information Systems with a
     <p>I love getting things to talk to each other.</p>
   </div>
 
-<br>
-<br>
+---
 
 <div align="center">
 

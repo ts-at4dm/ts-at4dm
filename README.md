@@ -28,32 +28,31 @@ I'm pursuing a Bachelor of Science Degree in Computer Information Systems with a
 </div>
   
 <br>
+<br>
 
-<div style="display: flex; justify-content: space-between; align-items: start; gap: 50px;">
-  <div style="flex: 1; min-width: 250px;">
-    <h3>Work Interests</h3>
-    <ul>
-      <li>Databases</li>
-      <li>API's</li>
-      <li>Networks & protocols</li>
-      <li>System Integration</li>
-    </ul>
-    <p>I love getting things to talk to each other.</p>
-  </div>
-  <div style="flex: 1; min-width: 250px;">
-    <h3>Personal Interests</h3>
-    <ul>
-      <li>Computers & Tech</li>
-      <li>Programming</li>
-      <li>Gaming</li>
-      <li>Camping</li>
-      <li>Four Wheeling/Snowmobiling</li>
-      <li>Fishing</li>
-      <li>Hunting</li>
-    </ul>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
 
+      ### List 1
+      - Item 1
+      - Item 2
+      - Item 3
+
+    </td>
+    <td>
+
+      ### List 2
+      - Item A
+      - Item B
+      - Item C
+
+    </td>
+  </tr>
+</table>
+
+<br>
+<br>
 
 <div align="center">
 
